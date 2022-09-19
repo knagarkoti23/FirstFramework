@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-14T13:22:13 IST" name="Default suite" finished-at="2022-09-14T13:22:41 IST" duration-ms="28416">
+    <groups>
+    </groups>
+    <test started-at="2022-09-14T13:22:13 IST" name="Default test" finished-at="2022-09-14T13:22:41 IST" duration-ms="28416">
+      <class name="com.appointmanage.testcases.IndexPageText">
+        <test-method is-config="true" signature="readProp()[pri:0, instance:com.appointmanage.testcases.IndexPageText@3e11f9e9]" started-at="2022-09-14T13:22:13 IST" name="readProp" finished-at="2022-09-14T13:22:13 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readProp -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.appointmanage.testcases.IndexPageText@3e11f9e9]" started-at="2022-09-14T13:22:13 IST" name="setUp" finished-at="2022-09-14T13:22:31 IST" duration-ms="18026" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="signInPage()[pri:0, instance:com.appointmanage.testcases.IndexPageText@3e11f9e9]" started-at="2022-09-14T13:22:31 IST" name="signInPage" finished-at="2022-09-14T13:22:40 IST" duration-ms="9664" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.appointmanage.testcases.IndexPageText@3e11f9e9]" started-at="2022-09-14T13:22:40 IST" name="tearDown" finished-at="2022-09-14T13:22:41 IST" duration-ms="692" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.appointmanage.testcases.IndexPageText -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
